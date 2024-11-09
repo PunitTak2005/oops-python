@@ -156,12 +156,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 
-### Key Points:
-- The `README.md` provides an overview of OOP concepts with Python examples.
-- It includes sections like introduction, OOP concepts (with brief explanations and code), installation instructions, and usage details.
-- There is a clear structure for potential contributors and users.
-
-Feel free to customize the repository name and links accordingly!
 
 
 
