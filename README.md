@@ -137,7 +137,7 @@ To explore the examples, clone the repository:
 git clone https://github.com/PunitTak2005/oops-python
 cd oop-in-python
 
-nstallation
+Installation
 Ensure you have Python 3 installed on your machine. You can download the latest version of Python here.
 
 Usage
